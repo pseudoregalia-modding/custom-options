@@ -3,6 +3,7 @@ UI/UI_OptionsMenu
 Mods/CustomOptions/F_Options
 Mods/CustomOptions/Style_Button0
 Mods/CustomOptions/Style_TextM
+Mods/CustomOptions/BPI_Options
 Mods/CustomOptions/WBP_CustomButton
 Mods/CustomOptions/WBP_CustomOptions
 Mods/CustomOptions/WBP_ToggleVisButton
