@@ -15,8 +15,3 @@ Steps:
 
 1. Run `cook.bat` (equivalent to running a cook in-editor)
 1. Run `deploy.bat` (uses UnrealPak.exe to pack up the assets you just cooked and deploys the resulting pak)
-
-### Building for fullgold
-
-- Point `deploy.bat` at fullgold version of Pseudoregalia
-- Update UI_OptionsMenu on-button-press custom event to SetActiveWidgetIndex to 3 instead of 4
